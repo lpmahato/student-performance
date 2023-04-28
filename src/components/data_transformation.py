@@ -28,7 +28,7 @@ class DataTransformation:
             numerical_features = ['reading score', 'writing score']
             categorical_features = [
                 'gender', 
-                'race/ethnicity', 
+                'race_ethnicity', 
                 'parental level of education', 
                 'lunch',
                 'test preparation course'
